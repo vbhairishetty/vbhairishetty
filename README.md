@@ -120,7 +120,6 @@ A **FastAPI + OpenAI** backend that turns raw student responses into real-time, 
 <img src="https://img.shields.io/badge/OpenAI-0D1117?style=flat-square&logo=openai&logoColor=E6EDF3"/>
 <img src="https://img.shields.io/badge/SQLAlchemy-0D1117?style=flat-square&logo=sqlalchemy&logoColor=E6EDF3"/>
 &nbsp;
-<a href="https://github.com/vbhairishetty"><img src="https://img.shields.io/badge/View_Repo-1E3A8A?style=flat-square&logo=github&logoColor=white"/></a>
 
 <br/>
 
@@ -135,7 +134,6 @@ An end-to-end pipeline that scrapes, cleans, and ingests **2,000+ job listings p
 <img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=flat-square&logo=postgresql&logoColor=E6EDF3"/>
 <img src="https://img.shields.io/badge/AWS-0D1117?style=flat-square&logo=amazonaws&logoColor=E6EDF3"/>
 &nbsp;
-<a href="https://github.com/vbhairishetty"><img src="https://img.shields.io/badge/View_Repo-1E3A8A?style=flat-square&logo=github&logoColor=white"/></a>
 
 <br/>
 
@@ -150,7 +148,7 @@ A secure **Java REST API** for an educational forum, built on **MVC architecture
 <img src="https://img.shields.io/badge/JUnit-0D1117?style=flat-square&logo=junit5&logoColor=E6EDF3"/>
 <img src="https://img.shields.io/badge/REST_API-0D1117?style=flat-square&logo=fastapi&logoColor=E6EDF3"/>
 &nbsp;
-<a href="https://github.com/vbhairishetty"><img src="https://img.shields.io/badge/View_Repo-1E3A8A?style=flat-square&logo=github&logoColor=white"/></a>
+<a href="[https://github.com/vbhairishetty](https://github.com/vbhairishetty/Compass-360-Discussion-Management-System)"><img src="https://img.shields.io/badge/View_Repo-1E3A8A?style=flat-square&logo=github&logoColor=white"/></a>
 
 ---
 
