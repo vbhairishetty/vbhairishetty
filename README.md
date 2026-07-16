@@ -150,10 +150,8 @@ A secure **Java REST API** for an educational forum, built on **MVC architecture
 ## `> git log --graph`
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake animation"/>
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Contribution snake animation"/>
 </div>
-
-<sub>Powered by a GitHub Action. To enable this on your own profile, set up <a href="https://github.com/Platane/snk">Platane/snk</a> in your profile repo.</sub>
 
 ---
 
