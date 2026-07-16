@@ -148,7 +148,6 @@ A secure **Java REST API** for an educational forum, built on **MVC architecture
 <img src="https://img.shields.io/badge/JUnit-0D1117?style=flat-square&logo=junit5&logoColor=E6EDF3"/>
 <img src="https://img.shields.io/badge/REST_API-0D1117?style=flat-square&logo=fastapi&logoColor=E6EDF3"/>
 &nbsp;
-<a href="[https://github.com/vbhairishetty](https://github.com/vbhairishetty/Compass-360-Discussion-Management-System)"><img src="https://img.shields.io/badge/View_Repo-1E3A8A?style=flat-square&logo=github&logoColor=white"/></a>
 
 ---
 
