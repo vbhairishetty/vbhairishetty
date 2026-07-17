@@ -145,7 +145,6 @@ A secure **Java REST API** for an educational forum, built on **MVC architecture
 <img src="https://img.shields.io/badge/JUnit-25A162?style=flat-square&logo=junit5&logoColor=white"/>
 <img src="https://img.shields.io/badge/REST_API-02569B?style=flat-square&logo=fastapi&logoColor=white"/>
 &nbsp;
----
 
 ## `> git log --graph`
 
